@@ -1,5 +1,8 @@
 These are the URLs for streaming BBC radio in the UK.  The more widely published worldwide ones don't work for things that the BBC don't hold worldwide broadcast rights to, chiefly sports commentaries.  If you are using a VPN set to the UK these can of course be used anywhere.
 
+If you are using VLC for instance click Media then Open Network Stream and paste the relevant URL into the box that comes up.  From a command line you can simply type `vlc <The URL>` or `cvlc <The URL>` in a none-graphical envionment.  Other players work in a similar way, eg `mpv <The URL>`, `ffplay <The URL>`.
+
+---
 
 BBC Radio 1
 http://as-hls-uk-live.akamaized.net/pool_01505109/live/uk/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
